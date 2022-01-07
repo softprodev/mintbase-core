@@ -2,7 +2,7 @@
 ****
 
 Required `node.js` and `rust`
-1. `git clone --recurse-submodules https://github.com/Mintbase/mintbase-core`
+1. `git clone --recurse-submodules https://github.com/softprodev/mintbase-core`
    1. if this fails, repeat process
 2. ensure submodules are initialised `git submodule update --init --recursive`
 3. default rust stable `rustup default stable`
